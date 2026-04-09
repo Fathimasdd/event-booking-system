@@ -96,3 +96,55 @@ Frontend runs on: `http://localhost:5173`
 ## 7) Default Seed Admin
 - Email: `admin@smartwinnr.com`
 - Password: `Admin@123`
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home-page.png)
+
+### Login Page
+![Login Page](screenshots/login-page.png)
+
+### Register Page
+![Register Page](screenshots/register-page.png)
+
+### Registration Success
+![Registration Success](screenshots/registration-success.png)
+
+### Entire Homepage
+![Entire Homepage](screenshots/entire-homepage.png)
+
+### Events Filtering
+![Events Filtering](screenshots/events-filtering.png)
+
+### Search & Filtering
+![Search](screenshots/filtering-and-search.png)
+
+### Event Booking
+![Event Booking](screenshots/event-booking.png)
+
+### My Bookings & Notifications
+![Bookings](screenshots/mybookings-and-notifications.png)
+
+### Calendar Page
+![Calendar](screenshots/calender-page.png)
+
+### Discover by Category
+![Discover](screenshots/dicoverbycategory-and-featuredevents.png)
+
+### Role-Based Authentication
+![Auth](screenshots/rolebased-authentication.png)
+
+### Admin Page
+![Admin](screenshots/adminpage.png)
+
+### Admin Adding Event
+![Add Event](screenshots/admin-adding-event.png)
+
+### Admin Adding Event (Step 2)
+![Add Event 2](screenshots/admin-adding-event1.png)
+
+### Admin Adding Event Success
+![Success](screenshots/admin-adding-event-success.png)
+
+### Added Event Reflection
+![Reflection](screenshots/added-event-reflecting-in.png)
