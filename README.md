@@ -131,8 +131,7 @@ Frontend runs on: `http://localhost:5173`
 ### Discover by Category
 ![Discover](screenshots/dicoverbycategory-and-featuredevents.png)
 
-### Role-Based Authentication
-![Auth](screenshots/rolebased-authentication.png)
+
 
 ### Admin Page
 ![Admin](screenshots/adminpage.png)
